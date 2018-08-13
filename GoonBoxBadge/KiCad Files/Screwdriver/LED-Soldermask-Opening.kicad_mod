@@ -1,0 +1,11 @@
+(module LED-Soldermask-Opening (layer F.Cu) (tedit 5A93D566)
+  (fp_text reference REF** (at 0.1 2.9) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value LED-Soldermask-Opening (at 0 4.4) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at -13.5 0) (size 3 3) (layers F.Mask))
+  (pad 1 smd circle (at 13.5 0) (size 3 3) (layers F.Mask))
+  (pad 2 smd rect (at 0 0) (size 27 3) (layers F.Mask))
+)
