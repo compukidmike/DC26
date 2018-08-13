@@ -5,7 +5,7 @@ This unofficial Defcon badge has been an amazing experience. Thank you to everyo
 You will find everything you need to build your own badge here. If I forgot something or you need clarification on something, don't hesitate to reach out.
 
 ## Basic Badge Usage
-This is the instruction sheet that was in the bag with the badge.
+This is the instruction sheet that was in the bag with the badge.  
 ![](https://github.com/compukidmike/DC26/blob/master/GoonBoxBadge/BasicInstructions.PNG)  
 
 The most important thing to keep in mind is to not touch the slider or the mode button when turning on the badge. When the badge is first powered on, it goes through a quick calibration of the touch buttons. If you're touching the buttons during this, the calibration will be off and the buttons won't work. If that happens, simply turn the badge off and back on.
