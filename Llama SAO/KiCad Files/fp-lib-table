@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LlamaSAO)(type KiCad)(uri C:/Users/compukidmike/Dropbox/kicad/LlamaSAO)(options "")(descr ""))
+  (lib (name GoonBoxBadge)(type KiCad)(uri C:/Users/compukidmike/Documents/kicad/GoonBoxBadge)(options "")(descr ""))
+)
