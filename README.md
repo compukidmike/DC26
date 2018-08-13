@@ -1,2 +1,2 @@
 # DEFCON 26
-The Goon Box badge source will be here after DEFCON is over.
+This is all the production files and source code for the badges we made for Defcon 26
